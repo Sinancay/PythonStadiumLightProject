@@ -5,9 +5,9 @@ Stadium Light Project prepared with Python and JavaSript.
 # Installation
 
 Requirements Library Installation
-- Flask
+- Flask:
 pip install Flask
-- SocketIO
+- SocketIO:
 pip install Flask_SocketIO
 
 # USAGE
